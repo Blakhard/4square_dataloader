@@ -1,2 +1,2 @@
 # 4square_dataloader
-simple code to work with 4square api.
+Simple script to work with 4square userless api, to get information about venues.
